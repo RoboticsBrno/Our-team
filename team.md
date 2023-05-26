@@ -1,5 +1,15 @@
 <script src="https://kit.fontawesome.com/5b4ac9752d.js" crossorigin="anonymous"></script>
-<!-- This is the team_template.j2 file -->
+
+<div align="center">
+	<h1 >Robotika Brno (Robotics Brno)</h1>
+
+	<a class="md-button md-button--primary" href="https://team.robotikabrno.cz/">Více o našem týmu</a>
+</div>
+
+<p align="center">
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboticsBrno%2FOur-team&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true"/></a>
+	<img src="https://img.shields.io/github/license/RoboticsBrno/Our-team?style=flat-square">
+</p><!-- This is the team_template.j2 file -->
 <table style="width: 100%; border: none;">
     <tr>
         <td style="width: 50%; vertical-align: top; border: none;">

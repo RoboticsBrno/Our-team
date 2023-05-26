@@ -9,7 +9,8 @@ team_file = './team.yaml'
 template_folder = './templates'
 output_file_html = './team.html'
 output_file_md = './team.md'
-team_template = 'team_template.jinja2'
+team_template = 'team.jinja2'
+header_template = 'header.jinja2'
 image_prefix = "https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/"
 
 
@@ -53,7 +54,7 @@ def save_team_portfolio(filename: str, team_portfolio: str) -> None:
     with open(filename, 'w') as file:
         file.write(team_portfolio)
 
-def generate_team_portfolio(team_data: dict, template_folder: str, team_template: str) -> str:
+def generate_team_portfolio(team_data: dict, template_folder: str, team_template: str, header_template: str) -> str:
     # Set the template environment
     env = Environment(loader=FileSystemLoader(template_folder))
 
@@ -61,7 +62,7 @@ def generate_team_portfolio(team_data: dict, template_folder: str, team_template
     env.filters['remove_http_s'] = nice_url
     env.filters['image_absolute_path'] = image_absolute_path
 
-    portfolio_string = '<script src="https://kit.fontawesome.com/5b4ac9752d.js" crossorigin="anonymous"></script>\n'
+    portfolio_string = env.get_template(header_template).render()
 
     # Loop through the team members
     for index, team_member_data in enumerate(team_data):
@@ -87,7 +88,7 @@ if __name__ == "__main__":
     team_data = load_team_data(team_file)
     # pprint(team_data)
 
-    portfolio = generate_team_portfolio(team_data, template_folder, team_template)
+    portfolio = generate_team_portfolio(team_data, template_folder, team_template, header_template)
 
     save_team_portfolio(output_file_html, portfolio)
     save_team_portfolio(output_file_md, portfolio)
