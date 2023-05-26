@@ -3,6 +3,7 @@ site_url: https://team.robotikabrno.cz
 site_author: RoboticsBrno
 site_description: >-
   RoboticsBrno developers team
+  This is RoboticsBrno developers team
 
 
 # Repository
@@ -88,8 +89,13 @@ plugins:
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      url_download: True
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
   - Home: 'README.md'
+  - How to use it: 'how-to-use-it.md'

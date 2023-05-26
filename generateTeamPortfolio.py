@@ -1,3 +1,4 @@
+import urllib3
 import yaml
 from pprint import pprint
 from urllib import parse
@@ -6,15 +7,26 @@ from jinja2 import Environment, FileSystemLoader
 # Set the directories
 team_file = './team.yaml'
 template_folder = './templates'
-output_file_html = './output.html'
-output_file_md = './output.md'
+output_file_html = './team.html'
+output_file_md = './team.md'
 team_template = 'team_template.jinja2'
 image_prefix = "https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/"
 
 
 # Custom function to remove http:// or https:// from URLs
-def remove_http(url):
-    return url.replace('http://', '').replace('https://', '')
+def nice_url(url):
+    url = url.replace('http://', '').replace('https://', '')
+    if url.startswith("www."):
+        url = url[4:]
+    if url.startswith("github.com/"):
+        url = url[11:]
+    if url.startswith("github.io/"):
+        url = url[10:]
+    if url.endswith("/"):
+        url = url[:-1]
+    if url.startswith("linkedin.com/"):
+        url = parse.unquote(url[13:])
+    return url
 
 def image_absolute_path(image):
     return parse.urljoin(image_prefix, image)
@@ -46,10 +58,10 @@ def generate_team_portfolio(team_data: dict, template_folder: str, team_template
     env = Environment(loader=FileSystemLoader(template_folder))
 
     # Add the custom function to the template environment
-    env.filters['remove_http_s'] = remove_http
+    env.filters['remove_http_s'] = nice_url
     env.filters['image_absolute_path'] = image_absolute_path
 
-    portfolio_string = ""
+    portfolio_string = '<script src="https://kit.fontawesome.com/5b4ac9752d.js" crossorigin="anonymous"></script>\n'
 
     # Loop through the team members
     for index, team_member_data in enumerate(team_data):
