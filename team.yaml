@@ -15,7 +15,6 @@
   image: image/JanMrazek.jpg
   about_me: >-
 
-
 - user_name: Vojtěch Boček
   user_email: vbocek@gmail.com
   website: http://tasssadar.github.com/
@@ -45,7 +44,7 @@
   linkedin: https://www.linkedin.com/in/jakub-andrysek/
   image: image/JakubAndrysek.jpg
   about_me: >-
-    Kuba je člověk pro všechno, rád pomůže všude tam, kde je třeba. Neodradí ho ani nestandardní situace a jde si vždy za svým cílem. 
+    Kuba je člověk pro všechno, rád pomůže všude tam, kde je třeba. Neodradí ho ani nestandardní situace a jde si vždy za svým cílem.
     Studoval informatiku na gymnáziu Vídeňská a nyní pokračuje na FI MUNI v Brně.
     Nejčastěji ho najdete viset na skále, nebo sedět u počítače, kde vymýšlí nějaké nové projekty.
     U nás se věnuje hlavně programování a také 3D modelování v kroužku, který už několik let vede.
@@ -58,7 +57,7 @@
   image: image/TomasVavrinec.jpg
   about_me: >-
     Tom je člověk primárně pro elektroniku, přesto nepohrdne ani dobrou táborovou hrou nebo jinou kulišarnou. Když se pro něco nadchne nepřestane dokud neuzná dílo za hotové.
-    Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení. 
+    Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení.
     Bývá k vidění na nejrůznějších horách i za polárním kruhem, přesto že nejčastěji ho najdete v okolí technologického parku VUT, nebo u počítače či osciloskopu, jak se snaží zprovoznit hračky nejmenovanému programátorovi.
     U nás se zabývá návrhem elektroniky a mechaniky všeho druhu a spolu s Kubou Andrýskem vede kroužek 3D modelování a 3D tisku.
 
@@ -67,9 +66,8 @@
   website:
   github: https://github.com/haberturdeur
   linkedin: https://www.linkedin.com/in/tom%C3%A1%C5%A1-rohl%C3%ADnek-13233a1a8
-  image: assets/logo.png  #image/TomasRohlinek.jpg
+  image: assets/logo.png #image/TomasRohlinek.jpg
   about_me: >-
-
 
 - user_name: Jarek Malec
   user_email:
@@ -79,7 +77,6 @@
   image: image/JarekMalec.jpg
   about_me: >-
 
-
 - user_name: Jakub Streit
   user_email:
   website:
@@ -87,7 +84,6 @@
   linkedin:
   image: image/JakubStreit.jpg
   about_me: >-
-
 
 - user_name: Honza Škrabal
   user_email:
@@ -98,19 +94,18 @@
   about_me: >-
     Honza je člověk do pohody. Rád všem pomůže a předá své zkušenosti.
     Aktuálně studuje na FIT (Fakultě informačních technologií) univerzity VUT v Brně.
-    Když se zrovna nevěnuje škole, tak dělá na nejrůznějších projektech. 
-    O robotiku a programování se zajímá již od 6. třídy a nyní vede několikátým rokem kroužek Lego Mindstorms. 
-    Mezi jeho hlavní zájmy patří elektronika a mechanika, nejvíce ho baví pájet. 
+    Když se zrovna nevěnuje škole, tak dělá na nejrůznějších projektech.
+    O robotiku a programování se zajímá již od 6. třídy a nyní vede několikátým rokem kroužek Lego Mindstorms.
+    Mezi jeho hlavní zájmy patří elektronika a mechanika, nejvíce ho baví pájet.
     Taktéž jej můžete potkat na robotickém táboře, na kterém každoročně pomáhá.
 
 - user_name: Petr Kubica
-  user_email: cubicap@email.cz
+  user_email:
   website: http://cubicap.eu/
   github: https://github.com/cubicap
   linkedin:
   image: assets/logo.png #image/PetrKubica.jpg
   about_me: >-
-
 
 - user_name: MiroslavBurda
   user_email:
@@ -119,7 +114,6 @@
   linkedin:
   image: assets/logo.png #image/MiroslavBurda.jpg
   about_me: >-
-    
 
 - user_name: Martin Ptáček
   user_email:
@@ -129,7 +123,6 @@
   image: image/MartinPtacek.jpg
   about_me: >-
 
-
 - user_name: Bedřich Said
   user_email:
   website:
@@ -137,7 +130,6 @@
   linkedin: https://www.linkedin.com/in/bedrich-said
   image: image/BedrichSaid.jpg
   about_me: >-
-    
 
 - user_name: Martin Kousal
   user_email:
@@ -147,7 +139,6 @@
   image: assets/logo.png #image/MartinKousal.jpg
   about_me: >-
 
-
 - user_name: Jarek Páral
   user_email:
   website: https://github.com/JarekParal/JarekParal
@@ -155,7 +146,6 @@
   linkedin: https://linkedin.com/in/jaroslav-paral/
   image: image/JarekParal.jpg
   about_me: >-
-
 
 - user_name: Petr Stourač
   user_email:

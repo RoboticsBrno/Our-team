@@ -79,7 +79,7 @@
     <tr>
         <td style="width: 50%; vertical-align: top; border: none;">
             <h2> Jakub Andrýsek </h2>
-            <p>Kuba je člověk pro všechno, rád pomůže všude tam, kde je třeba. Neodradí ho ani nestandardní situace a jde si vždy za svým cílem.  Studoval informatiku na gymnáziu Vídeňská a nyní pokračuje na FI MUNI v Brně. Nejčastěji ho najdete viset na skále, nebo sedět u počítače, kde vymýšlí nějaké nové projekty. U nás se věnuje hlavně programování a také 3D modelování v kroužku, který už několik let vede.</p>
+            <p>Kuba je člověk pro všechno, rád pomůže všude tam, kde je třeba. Neodradí ho ani nestandardní situace a jde si vždy za svým cílem. Studoval informatiku na gymnáziu Vídeňská a nyní pokračuje na FI MUNI v Brně. Nejčastěji ho najdete viset na skále, nebo sedět u počítače, kde vymýšlí nějaké nové projekty. U nás se věnuje hlavně programování a také 3D modelování v kroužku, který už několik let vede.</p>
             <p style="font-size: 15px;">
                 <i class="fas fa-envelope"></i> <a href="mailto:email@kubaandrysek.cz">email@kubaandrysek.cz</a><br>
                 <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jakub-andrysek/" target="_blank">in/jakub-andrysek</a><br>
@@ -100,7 +100,7 @@
         </td>
         <td style="width: 50%; vertical-align: top; border: none;">
             <h2> Tomáš Vavrinec </h2>
-            <p>Tom je člověk primárně pro elektroniku, přesto nepohrdne ani dobrou táborovou hrou nebo jinou kulišarnou. Když se pro něco nadchne nepřestane dokud neuzná dílo za hotové. Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení.  Bývá k vidění na nejrůznějších horách i za polárním kruhem, přesto že nejčastěji ho najdete v okolí technologického parku VUT, nebo u počítače či osciloskopu, jak se snaží zprovoznit hračky nejmenovanému programátorovi. U nás se zabývá návrhem elektroniky a mechaniky všeho druhu a spolu s Kubou Andrýskem vede kroužek 3D modelování a 3D tisku.</p>
+            <p>Tom je člověk primárně pro elektroniku, přesto nepohrdne ani dobrou táborovou hrou nebo jinou kulišarnou. Když se pro něco nadchne nepřestane dokud neuzná dílo za hotové. Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení. Bývá k vidění na nejrůznějších horách i za polárním kruhem, přesto že nejčastěji ho najdete v okolí technologického parku VUT, nebo u počítače či osciloskopu, jak se snaží zprovoznit hračky nejmenovanému programátorovi. U nás se zabývá návrhem elektroniky a mechaniky všeho druhu a spolu s Kubou Andrýskem vede kroužek 3D modelování a 3D tisku.</p>
             <p style="font-size: 15px;">
                 <i class="fab fa-github"></i> <a href="https://github.com/TVavrinec" target="_blank">TVavrinec</a><br>
             </p>
@@ -159,7 +159,7 @@
         </td>
         <td style="width: 50%; vertical-align: top; border: none;">
             <h2> Honza Škrabal </h2>
-            <p>Honza je člověk do pohody. Rád všem pomůže a předá své zkušenosti. Aktuálně studuje na FIT (Fakultě informačních technologií) univerzity VUT v Brně. Když se zrovna nevěnuje škole, tak dělá na nejrůznějších projektech.  O robotiku a programování se zajímá již od 6. třídy a nyní vede několikátým rokem kroužek Lego Mindstorms.  Mezi jeho hlavní zájmy patří elektronika a mechanika, nejvíce ho baví pájet.  Taktéž jej můžete potkat na robotickém táboře, na kterém každoročně pomáhá.</p>
+            <p>Honza je člověk do pohody. Rád všem pomůže a předá své zkušenosti. Aktuálně studuje na FIT (Fakultě informačních technologií) univerzity VUT v Brně. Když se zrovna nevěnuje škole, tak dělá na nejrůznějších projektech. O robotiku a programování se zajímá již od 6. třídy a nyní vede několikátým rokem kroužek Lego Mindstorms. Mezi jeho hlavní zájmy patří elektronika a mechanika, nejvíce ho baví pájet. Taktéž jej můžete potkat na robotickém táboře, na kterém každoročně pomáhá.</p>
             <p style="font-size: 15px;">
                 <i class="fab fa-github"></i> <a href="https://github.com/Robot7769" target="_blank">Robot7769</a><br>
             </p>
@@ -172,7 +172,6 @@
         <td style="width: 50%; vertical-align: top; border: none;">
             <h2> Petr Kubica </h2>
             <p style="font-size: 15px;">
-                <i class="fas fa-envelope"></i> <a href="mailto:cubicap@email.cz">cubicap@email.cz</a><br>
                 <i class="fab fa-github"></i> <a href="https://github.com/cubicap" target="_blank">cubicap</a><br>
                 <i class="fas fa-globe"></i> <a href="http://cubicap.eu/" target="_blank">cubicap.eu</a>
             </p>
