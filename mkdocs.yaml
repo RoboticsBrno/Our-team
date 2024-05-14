@@ -11,7 +11,7 @@ repo_name: RoboticsBrno/Our-team
 repo_url: https://github.com/RoboticsBrno/Our-team
 
 # Copyright
-copyright: Copyright © 2023 RoboticsBrno
+copyright: Copyright © 2024 RoboticsBrno
 
 theme:
   name: material
@@ -52,11 +52,11 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/RobotikaBrno
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/robotarna
+      link: https://www.facebook.com/robotarna.helceletka
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@robotikabrno-robotarnaasps2392
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/_robotarna_
+      link: https://www.instagram.com/robotarna.helceletka
 #    analytics:
 #        provider: google
 #        property: G-XXXXXXXXXX
