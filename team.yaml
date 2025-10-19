@@ -5,7 +5,97 @@
   linkedin:
   image: image/JiriVacha.png
   about_me: >-
-    Jirka je hlavní vedoucí Robotárny.
+    Jirka je bývalý hlavní vedoucí Robotárny. A jádro Robotiky Brno.
+
+- user_name: Petr Kubica
+  user_email: me@cubicap.eu
+  website: http://cubicap.eu/
+  github: https://github.com/cubicap
+  linkedin:
+  image: assets/logo.png #image/PetrKubica.jpg
+  about_me: >-
+    Vedoucí vývojového týmu projektu Robůtek. Stojí za Jaculem a softwarem pro Robůtka.
+
+- user_name: Tomáš Vavrinec
+  user_email:
+  website:
+  github: https://github.com/TVavrinec
+  linkedin:
+  image: image/TomasVavrinec.jpg
+  about_me: >-
+    Tom je člověk primárně pro elektroniku, přesto nepohrdne ani dobrou táborovou hrou nebo jinou kulišarnou. Když se pro něco nadchne nepřestane dokud neuzná dílo za hotové.
+    Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení.
+    Bývá k vidění na nejrůznějších horách i za polárním kruhem, přesto že nejčastěji ho najdete v okolí technologického parku VUT, nebo u počítače či osciloskopu, jak se snaží zprovoznit hračky nejmenovanému programátorovi.
+    U nás se zabývá návrhem elektroniky a mechaniky všeho druhu a spolu s Kubou Andrýskem vede kroužek 3D modelování a 3D tisku.
+
+- user_name: Jakub Andrýsek
+  user_email: email@kubaandrysek.cz
+  website: https://kubaandrysek.cz/
+  github: https://github.com/JakubAndrysek
+  linkedin: https://www.linkedin.com/in/jakub-andrysek/
+  image: image/JakubAndrysek.jpg
+  about_me: >-
+    Kuba je člověk pro všechno, rád pomůže všude tam, kde je třeba. Neodradí ho ani nestandardní situace a jde si vždy za svým cílem.
+    Studoval informatiku na gymnáziu Vídeňská a nyní pokračuje na FI MUNI v Brně.
+    Nejčastěji ho najdete viset na skále, nebo sedět u počítače, kde vymýšlí nějaké nové projekty.
+    U nás se věnuje hlavně programování a také 3D modelování v kroužku, který už několik let vede.
+
+- user_name: Honza Škrabal
+  user_email:
+  website: #https://robot7769.github.io/
+  github: https://github.com/Robot7769
+  linkedin:
+  image: image/HonzaSkrabal.jpg
+  about_me: >-
+    Honza je člověk do pohody. Rád všem pomůže a předá své zkušenosti.
+    Aktuálně studuje na FIT (Fakultě informačních technologií) univerzity VUT v Brně.
+    Když se zrovna nevěnuje škole, tak dělá na nejrůznějších projektech.
+    O robotiku a programování se zajímá již od 6. třídy a nyní vede několikátým rokem kroužek Lego Mindstorms.
+    Mezi jeho hlavní zájmy patří elektronika a mechanika, nejvíce ho baví pájet.
+    Taktéž jej můžete potkat na robotickém táboře, na kterém každoročně pomáhá.
+
+- user_name: Tomáš Rohlínek
+  user_email:
+  website:
+  github: https://github.com/haberturdeur
+  linkedin:
+  image: assets/logo.png #image/TomasRohlinek.jpg
+  about_me: >-
+    Tom stojí za herní částí Robotiky Brno. Pracuje na nástrojích pro práci s technologií v outdoorových hrách, a pokud to jde snaží se pomáhat Petrovi s vývojem.
+
+- user_name: Jarek Malec
+  user_email:
+  website:
+  github: https://github.com/cednik
+  linkedin: https://www.linkedin.com/in/jaroslavmalec
+  image: image/JarekMalec.jpg
+  about_me: >-
+
+- user_name: Renata Zemanová
+  user_email:
+  website:
+  github: https://github.com/renata7zemanova
+  linkedin:
+  image: image/RenataZemanova.jpg
+  about_me: >-
+    Pro Renču je technika jedno velké kouzlo. I proto se jí věnuje a snaží se jí přijít co nejvíce na kloub. Baví ji pájení i většina rukodělných prací. Ráda své vědomosti předává dál, baví ji přemýšlet a nesnáší stereotypy. Je velmi společenská a přátelská.
+    Bojí se výšek a přesto miluje hory a rozhledny a fascinují ji krásné výhledy do přírody. Hraje také na kytaru a zpívá ve sboru. Ráda by se někdy podívala na Island, do Norska nebo do Kanady.
+    Na našem táboře je na pozici hlavní vedoucí.
+
+- user_name: MiroslavBurda
+  user_email:
+  website:
+  github: https://github.com/MiroslavBurda
+  linkedin:
+  image: assets/logo.png #image/MiroslavBurda.jpg
+  about_me: >-
+- user_name: Jakub Streit
+  user_email:
+  website:
+  github: https://github.com/cednik
+  linkedin:
+  image: image/JakubStreit.jpg
+  about_me: >-
 
 - user_name: Honza Mrázek
   user_email: email@honzamrazek.cz
@@ -26,93 +116,12 @@
     Za Robotárnu se úspěšně zúčastnil několika soutěží a vypracoval dvě práce SOČ. Teď už několik let pracuje jako vývojář v oblasti kyberbezpečnosti.
     Ve volném čase fotí, krotí kočky a prochází se po horách.
 
-- user_name: Renata Zemanová
-  user_email:
-  website:
-  github: https://github.com/renata7zemanova
-  linkedin:
-  image: image/RenataZemanova.jpg
-  about_me: >-
-    Pro Renču je technika jedno velké kouzlo. I proto se jí věnuje a snaží se jí přijít co nejvíce na kloub. Baví ji pájení i většina rukodělných prací. Ráda své vědomosti předává dál, baví ji přemýšlet a nesnáší stereotypy. Je velmi společenská a přátelská.
-    Bojí se výšek a přesto miluje hory a rozhledny a fascinují ji krásné výhledy do přírody. Hraje také na kytaru a zpívá ve sboru. Ráda by se někdy podívala na Island, do Norska nebo do Kanady.
-    Na našem táboře je na pozici hlavní vedoucí.
-
-- user_name: Jakub Andrýsek
-  user_email: email@kubaandrysek.cz
-  website: https://kubaandrysek.cz/
-  github: https://github.com/JakubAndrysek
-  linkedin: https://www.linkedin.com/in/jakub-andrysek/
-  image: image/JakubAndrysek.jpg
-  about_me: >-
-    Kuba je člověk pro všechno, rád pomůže všude tam, kde je třeba. Neodradí ho ani nestandardní situace a jde si vždy za svým cílem.
-    Studoval informatiku na gymnáziu Vídeňská a nyní pokračuje na FI MUNI v Brně.
-    Nejčastěji ho najdete viset na skále, nebo sedět u počítače, kde vymýšlí nějaké nové projekty.
-    U nás se věnuje hlavně programování a také 3D modelování v kroužku, který už několik let vede.
-
-- user_name: Tomáš Vavrinec
-  user_email:
-  website:
-  github: https://github.com/TVavrinec
-  linkedin:
-  image: image/TomasVavrinec.jpg
-  about_me: >-
-    Tom je člověk primárně pro elektroniku, přesto nepohrdne ani dobrou táborovou hrou nebo jinou kulišarnou. Když se pro něco nadchne nepřestane dokud neuzná dílo za hotové.
-    Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení.
-    Bývá k vidění na nejrůznějších horách i za polárním kruhem, přesto že nejčastěji ho najdete v okolí technologického parku VUT, nebo u počítače či osciloskopu, jak se snaží zprovoznit hračky nejmenovanému programátorovi.
-    U nás se zabývá návrhem elektroniky a mechaniky všeho druhu a spolu s Kubou Andrýskem vede kroužek 3D modelování a 3D tisku.
-
-- user_name: Tomáš Rohlínek
-  user_email:
-  website:
-  github: https://github.com/haberturdeur
-  linkedin: https://www.linkedin.com/in/tom%C3%A1%C5%A1-rohl%C3%ADnek-13233a1a8
-  image: assets/logo.png #image/TomasRohlinek.jpg
-  about_me: >-
-
-- user_name: Jarek Malec
-  user_email:
-  website:
-  github: https://github.com/cednik
-  linkedin: https://www.linkedin.com/in/jaroslavmalec
-  image: image/JarekMalec.jpg
-  about_me: >-
-
 - user_name: Jakub Streit
   user_email:
   website:
   github: https://github.com/cednik
   linkedin:
   image: image/JakubStreit.jpg
-  about_me: >-
-
-- user_name: Honza Škrabal
-  user_email:
-  website: #https://robot7769.github.io/
-  github: https://github.com/Robot7769
-  linkedin:
-  image: image/HonzaSkrabal.jpg
-  about_me: >-
-    Honza je člověk do pohody. Rád všem pomůže a předá své zkušenosti.
-    Aktuálně studuje na FIT (Fakultě informačních technologií) univerzity VUT v Brně.
-    Když se zrovna nevěnuje škole, tak dělá na nejrůznějších projektech.
-    O robotiku a programování se zajímá již od 6. třídy a nyní vede několikátým rokem kroužek Lego Mindstorms.
-    Mezi jeho hlavní zájmy patří elektronika a mechanika, nejvíce ho baví pájet.
-    Taktéž jej můžete potkat na robotickém táboře, na kterém každoročně pomáhá.
-
-- user_name: Petr Kubica
-  user_email:
-  website: http://cubicap.eu/
-  github: https://github.com/cubicap
-  linkedin:
-  image: assets/logo.png #image/PetrKubica.jpg
-  about_me: >-
-
-- user_name: MiroslavBurda
-  user_email:
-  website:
-  github: https://github.com/MiroslavBurda
-  linkedin:
-  image: assets/logo.png #image/MiroslavBurda.jpg
   about_me: >-
 
 - user_name: Martin Ptáček
